@@ -1,5 +1,1 @@
-[phases.setup]
-nixPkgs = ["python312"]
 
-[start]
-cmd = "python probe.py"
